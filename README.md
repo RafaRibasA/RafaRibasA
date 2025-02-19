@@ -3,8 +3,8 @@
 ## Im Rafael Ribas 😜
 
 - 🔭 I’m currently working as support analyst
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💬 Ask me about everything
+- 🌱 Learning HTML, CSS and JS
+- 💬 Ask me anything
 - 📫 How to reach me: @ribas_rafa
 
 <div>
