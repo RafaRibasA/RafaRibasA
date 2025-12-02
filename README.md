@@ -21,4 +21,4 @@ Backend/Extra – JavaScript, PostgreSQL, PHP (previous experience)
 
 Email: rafa.ribas02@gmail.com
 
-LinkedIn: Rafael Ribas Albuquerque
+LinkedIn: [Rafael Ribas Albuquerque](https://www.linkedin.com/in/rafaelribasalbuquerque/)
