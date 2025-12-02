@@ -7,6 +7,8 @@ I have experience improving existing apps, creating new features from scratch, a
 
 🔧 Tech Skills
 
+Bachelor of computer science
+
 Android (Kotlin) – MVVM, Coroutines, Flows, Jetpack components, Services, Widgets
 
 Architecture – Clean principles, modularization, offline-first concepts
